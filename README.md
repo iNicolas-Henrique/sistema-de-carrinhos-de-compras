@@ -47,12 +47,11 @@ Digite 3 para ver o valor total de todos os produtos no carrinho.
 Digite 4 para confirmar a sua compra
 
 Digite 0 para encerrar o programa sem concluir nenhuma compra.
-```
 
 
 
-```md
----
+
+
 
 ## 👤 Autor
 
