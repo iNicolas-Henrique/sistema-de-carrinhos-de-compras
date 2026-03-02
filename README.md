@@ -65,6 +65,6 @@ Após executar o arquivo `main.py`, o sistema exibirá um menu interativo no ter
   
   ⭐ Se gostou do programa, considere deixar uma estrela professor!
   
-  Feito com  por Nicolas Henrique Costa Santos
+  Feito por Nicolas Henrique Costa Santos
   
 </div>
