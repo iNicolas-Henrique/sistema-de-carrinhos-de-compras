@@ -91,7 +91,7 @@ def main():
 
             except ValueError:
                 print("Entrada invalida.")
-
+#
         elif opcao == "2":
             carrinho.remover_produto(produtos)
 
@@ -117,4 +117,5 @@ def main():
 
 # Garante que o programa só execute se for rodado diretamente
 if __name__ == "__main__":
+
     main()
