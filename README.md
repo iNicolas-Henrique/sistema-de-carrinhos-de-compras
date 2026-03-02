@@ -19,7 +19,7 @@ Projeto desenvolvido para fins acadêmicos com o objetivo de simular um sistema 
 
 O sistema foi implementado utilizando Programação Orientada a Objetos, com as classes Produto e Carrinho.  
 Os produtos adicionados são armazenados em uma lista dentro do carrinho.
-Foi usado  duas bibliotecas do python como  "random" pra torna os preços e a quantidade dos itens um pouco mais realista.
+Foi usado  duas bibliotecas do python como  "random" pra torna os preços e a quantidade dos itens e também os cupons de desconto um pouco mais realista.
 e foi utilizado "os" pra limpar o terminal e não torna-lo poluido.
 
 ## ✨ Funcionalidades
