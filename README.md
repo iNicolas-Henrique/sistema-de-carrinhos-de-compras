@@ -28,9 +28,11 @@ Os produtos adicionados são armazenados em uma lista dentro do carrinho.
 
 ## 📋 Pré requesitos obrigatórios!
 
-1 Ter o Python instalado na máquina
-2 Baixe o programa normalmente
-3 Manter os arquivos main.py, produto.py e carrinho.py na mesma pasta
+ Ter o Python instalado na máquina
+ 
+ Baixe o programa normalmente
+ 
+ Manter os arquivos main.py, produto.py e carrinho.py na mesma pasta
 
 ## 💻 Como usar?
 
