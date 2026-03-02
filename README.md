@@ -2,12 +2,18 @@
 
 <div align="center">
 
-  ![Python](https://img.shields.io/badge/Python-3.x-blue)
-  ![Status](https://img.shields.io/badge/status-concluído-green)
- 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-concluído-green?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/maintained%3F-yes-blue?style=for-the-badge)
+
+**Um sistema de carrinho de compras desenvolvido em Python com Programação Orientada a Objetos** 🛒
 
 </div>
 
+---
+
+## 📖 Sobre
 
 Projeto desenvolvido para fins acadêmicos com o objetivo de simular um sistema de carrinho de compras.
 
@@ -16,54 +22,47 @@ Os produtos adicionados são armazenados em uma lista dentro do carrinho.
 
 ## ✨ Funcionalidades
 
-- Geração automática de produtos com preço e estoque aleatórios 
-- Controle de estoque ao adicionar produtos - Remoção parcial ou total de produtos do carrinho 
-- Cálculo automático do total 
-- Sistema de cupons aleatórios (0 a 3 disponíveis) - Desconto aleatório entre 5% e 30% 
-- Geração de nota fiscal no terminal
+- 🎲 Geração automática de produtos com preço e estoque aleatórios 
+- 📦 Controle de estoque ao adicionar produtos
+- ➖ Remoção parcial ou total de produtos do carrinho 
+- 🧮 Cálculo automático do total 
+- 🎟️ Sistema de cupons aleatórios (0 a 3 disponíveis) com desconto entre 5% e 30%
+- 📄 Geração de nota fiscal no terminal
 
 ## 🛠️ Linguagem utilizada
 
-- **Python.**
+- **Python 3.x**
 
-## 📋 Pré requesitos obrigatórios!
+## 📋 Pré-requisitos
 
- Ter o Python instalado na máquina
- 
- Baixe o programa normalmente
- 
- Manter os arquivos main.py, produto.py e carrinho.py na mesma pasta
+- ✅ Python 3.x instalado na máquina
+- ✅ Manter os arquivos `main.py`, `produto.py` e `carrinho.py` na mesma pasta
 
-## 💻 Como usar?
+## 💻 Como usar
 
+Após executar o arquivo `main.py`, o sistema exibirá um menu interativo no terminal:
 
-Após executar o arquivo main.py, o sistema exibirá um menu interativo no terminal com as opções disponíveis.
-O funcionamento ocorre da seguinte forma:
-
-Digite 1 para adicionar produtos no carrinho.
-
-Digite 2 para remover produtos do carrinho.
-
-Digite 3 para ver o valor total de todos os produtos no carrinho.
-
-Digite 4 para confirmar a sua compra
-
-Digite 0 para encerrar o programa sem concluir nenhuma compra.
-
-
-
-
-
+| Opção | Ação |
+|-------|------|
+| **1** | Adicionar produtos no carrinho |
+| **2** | Remover produtos do carrinho |
+| **3** | Ver o valor total dos produtos |
+| **4** | Confirmar a compra |
+| **0** | Encerrar o programa |
 
 ## 👤 Autor
 
 **Nicolas Henrique Costa Santos**
 
-- GitHub: [@iNicolas-Henrique](https://github.com/iNicolas-Henrique)
-- Email: nh157040@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-iNicolas--Henrique-black?style=for-the-badge&logo=github)](https://github.com/iNicolas-Henrique)
+[![Email](https://img.shields.io/badge/Email-nh157040%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nh157040@gmail.com)
 
 ---
 
 <div align="center">
-Feito por Nicolas Henrique Costa Santos
+  
+  ⭐ Se gostou do programa, considere deixar uma estrela professor!
+  
+  Feito com  por Nicolas Henrique Costa Santos
+  
 </div>
