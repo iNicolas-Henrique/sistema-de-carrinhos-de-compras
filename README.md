@@ -59,7 +59,7 @@ Digite 0 para encerrar o programa sem concluir nenhuma compra.
 
 **Nicolas Henrique Costa Santos**
 
-- GitHub: [@iWhisperx-source](https://github.com/iWhisperx-source)
+- GitHub: [@iNicolas-Henrique](https://github.com/iNicolas-Henrique)
 - Email: nh157040@gmail.com
 
 ---
