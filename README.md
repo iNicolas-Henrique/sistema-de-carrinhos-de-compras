@@ -37,8 +37,8 @@ e foi utilizado "os" pra limpar o terminal e não torna-lo poluido.
 
 ## 📋 Pré-requisitos
 
-- ✅ Python 3.x instalado na máquina
-- ✅ Manter os arquivos `main.py`, `produto.py` e `carrinho.py` na mesma pasta
+- ✅ Python 3.x instalado na máquina!
+- ✅ Manter os arquivos `main.py`, `produto.py` e `carrinho.py` na mesma pasta para funcionar da forma certa!
 
 ## 💻 Como usar
 
