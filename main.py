@@ -73,7 +73,7 @@ def adicionar_produto(carrinho, produtos):
 
     produto_escolhido = produtos[escolha]
 
-    # Agora pede a quantidade
+    # aqui neste exato ponto agora professor, pede a quantidade.
     try:
         qtd = int(input("Quantidade: "))
     except ValueError:
@@ -139,7 +139,7 @@ def main():
 
         limpar_tela()
 
-        # Usei match case para deixar o menu mais organizado
+        # Usei match case para deixar o menu mais organizado, melhor do que usar aninhado dentro de aninhado.
         match opcao:
 
             case "1":
@@ -166,3 +166,4 @@ def main():
 # Isso garante que o programa só roda se esse arquivo for executado diretamente
 if __name__ == "__main__":
     main()
+
