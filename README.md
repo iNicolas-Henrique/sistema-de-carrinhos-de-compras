@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/maintained%3F-yes-blue?style=for-the-badge)
 
-**Um sistema de carrinho de compras desenvolvido em Python com Programação Orientada a Objetos** 🛒
+**Um sistema de carrinho de compras desenvolvido em Python com Programação Orientada a Objetos e lista** 🛒
 
 </div>
 
