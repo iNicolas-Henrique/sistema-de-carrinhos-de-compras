@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/status-concluído-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/maintained%3F-yes-blue?style=for-the-badge)
 
 
 
@@ -13,7 +12,7 @@
 
 ---
 
-## 📖 Sobre
+## 📖 Sobre o programa
 
 Projeto desenvolvido para fins acadêmicos com o objetivo de simular um sistema de carrinho de compras.
 
@@ -33,11 +32,11 @@ e foi utilizado "os" pra limpar o terminal e não torna-lo poluido.
 
 ## 🛠️ Linguagem utilizada
 
-- **Python 3.x**
+- **Python**
 
-## 📋 Pré-requisitos
+## 📋 Pré-requisitos necessários
 
-- ✅ Python 3.x instalado na máquina!
+- ✅ Python 3 ou superior instalado na máquina!
 - ✅ Manter os arquivos `main.py`, `produto.py` e `carrinho.py` na mesma pasta para funcionar da forma certa!
 
 ## 💻 Como usar
@@ -52,7 +51,7 @@ Após executar o arquivo `main.py`, o sistema exibirá um menu interativo no ter
 | **4** | Confirmar a compra |
 | **0** | Encerrar o programa |
 
-## 👤 Autor
+## 👤 Criador ou Autor:
 
 **Nicolas Henrique Costa Santos**
 
