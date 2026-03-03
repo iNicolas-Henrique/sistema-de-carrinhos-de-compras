@@ -32,11 +32,11 @@ e foi utilizado "os" pra limpar o terminal e não torna-lo poluido.
 
 ## 🛠️ Linguagem utilizada
 
-- **Python**
+- **Python 3.x**
 
 ## 📋 Pré-requisitos necessários
 
-- ✅ Python 3 ou superior instalado na máquina!
+- ✅ Python 3.x ou superior instalado na máquina!
 - ✅ Manter os arquivos `main.py`, `produto.py` e `carrinho.py` na mesma pasta para funcionar da forma certa!
 
 ## 💻 Como usar
@@ -51,7 +51,7 @@ Após executar o arquivo `main.py`, o sistema exibirá um menu interativo no ter
 | **4** | Confirmar a compra |
 | **0** | Encerrar o programa |
 
-## 👤 Criador ou Autor:
+## 👤 Criador:
 
 **Nicolas Henrique Costa Santos**
 
