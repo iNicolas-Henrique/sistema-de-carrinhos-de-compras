@@ -63,7 +63,7 @@ Após executar o arquivo `main.py`, o sistema exibirá um menu interativo no ter
 
 <div align="center">
   
-  ⭐ Se gostou do programa, considere deixar uma estrela professor!
+  ⭐ Se gostou do programa, considere deixar uma estrela professor ou qualquer outro usuário que verá esse repositório!
   
   Feito por Nicolas Henrique Costa Santos
   
